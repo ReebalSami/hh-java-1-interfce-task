@@ -1,2 +1,7 @@
-package neuefisched.de;public interface Playable {
+package neuefisched.de;
+
+public interface Playable {
+
+    void play();
+
 }
